@@ -30,3 +30,4 @@ For more information see [the Wiki](https://github.com/remig/web_lic/wiki), whic
 
 [LEGO®](http://lego.com/) is a registered trademark of the LEGO Group, which does not sponsor, endorse, or authorize this software project.
 
+ 
